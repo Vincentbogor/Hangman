@@ -148,7 +148,7 @@ while not all(letter in right_guess for letter in answer.lower()) and wrong_gues
             break
     guess = input('Guess a letter: ').lower()
 
-if wrong_guess == 6: 
+if wrong_guess == 6:
     print('Game Over. The word was:', answer)
 else:
     print('Congratulations')
