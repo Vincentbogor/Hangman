@@ -189,7 +189,7 @@ while len(right_guess) != 8 and wrong_guess < 6:
                 guess = input('Enter a letter to guess: ')
                 guess = guess.lower()
             elif wrong_guess == 6:
-                right_leg() 
+                right_leg()
                 print('Game Over')
                 break
 
