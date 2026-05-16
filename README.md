@@ -7,7 +7,7 @@ A python recreation of the popular game "Hangman" built using turtle graphics. G
 
 ## How to run
 1. Make sure Python is installed
-2. Open `hangman_v1.py` (or `hangman_v1.py`) in VS Code
+2. Open `hangman_v2.py` (or `hangman_v1.py`) in VS Code
 3. Run the file
 
 ## What I learned
